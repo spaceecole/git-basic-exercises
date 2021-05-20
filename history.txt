@@ -1,0 +1,265 @@
+    1  pwd
+    2  cd:              
+    3  cd C: /Users/nicol/Documents/Umuzi
+    4  cd C:/Users/nicolDocuments/Umuzi
+    5  cd C:/Users/nicol/Documents/Umuzi
+    6  git init
+    7  git add.
+    8  git status
+    9  git commit -m "My 10 files"
+   10  git remote add origin "https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git"
+   11  git push -u origin master
+   12  git remote add origin 'https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git'
+   13  git push -u origin master
+   14  pwd
+   15  pwd
+   16  cd C:\c\Users\nicol\Documents\Umuzi
+   17  C:\Users\nicol\Documents\Umuzi
+   18  cd C:\Users\nicol\Documents\Umuzi
+   19  cd C:/Users/nicol/Documents/Umuzi
+   20  ls
+   21  git init
+   22  git add.
+   23  git add . 
+   24  git status
+   25  git commit -m "My Second Files of the writing assignment"
+   26  git remot add origin https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   27  git remote add origin https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   28  git push -u origin master
+   29  cd C:/Users/nicol/Documents/Umuzi
+   30  exit
+   31  cd C:/Users/nicol/Documents/Umuzi
+   32  ls
+   33  git init
+   34  git status
+   35  git add .
+   36  git status
+   37  git commit -m "Updated files"
+   38  git remote add origin https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   39  git remote -v
+   40  git remote rm origin
+   41  git remote add origin https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   42  git push
+   43  git push --set upstream origin master
+   44  git push -f origin master
+   45  git checkout origin
+   46  git checkout master
+   47  git checkout main
+   48  git branch master main -f
+   49  git checkout master
+   50  git checkout main
+   51  git rm origin
+   52  git pwd 
+   53  git --help
+   54  git merge master main
+   55  git init
+   56  cd https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   57  cd /c/Users/nicol
+   58  git init
+   59  cd /c/Users/nicol/Documents/Umuzi
+   60  git init
+   61  git add
+   62  git add .
+   63  git commit -m "My second update on the assignment"
+   64  git remote add origin https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   65  git rm origin
+   66  git remote rm origin
+   67  git remote add origin https://github.com/Umuzi-org/Nicole-Ngina-429-bootcamp-writing-assignment-markdown.git
+   68  git branch Updated-Assignmnet
+   69  pwd
+   70  C:/c/Users/nicol/git-basic-exercises
+   71  cd
+   72  pwd
+   73  cd C:/c/Users/nicol/git-basic-exercises
+   74  C:/c/Users/nicol/Documents/git-basic-exercises
+   75  cd /c/Users/nicol/Documents/git-basic-exercises
+   76  ls-a
+   77  ls -a
+   78  git init
+   79  ls -a
+   80  git status
+   81  touch README.md
+   82  ls -a
+   83  git status
+   84  git log
+   85  git add
+   86  git add .
+   87  git status
+   88  git status
+   89  git commit -m "initial commit"
+   90  git log
+   91  nano README.md
+   92  cat READ.md
+   93  README.md
+   94  cat README.md
+   95  git stats
+   96  git status
+   97  git commit -m "second commit"
+   98  git status
+   99  git log
+  100  git add .
+  101  git status
+  102  git log
+  103  git commit -m "second commit"
+  104  cat README.md
+  105  nano README.md
+  106  git add .
+  107  git commit -m "third commit"
+  108  git log
+  109  git checkout a0c13485ac9177db20b72e1a22d4b9881fda9680
+  110  cat README.md
+  111  git checkout main
+  112  git checkout main cat README.md 
+  113  cat README.md
+  114  git checkout master
+  115  cat README.md
+  116  git branch
+  117  git branch milkshake-flavours
+  118  git branch *
+  119  git branch
+  120  git checkout milkshake-flavours
+  121  nano milkshakes.md
+  122  git status
+  123  git add .
+  124  git commit -m "added initial flavours"
+  125  git log
+  126  git checkout master
+  127  git log
+  128  git status
+  129  git branch history
+  130  git log
+  131  git branch
+  132  history > history.txt
+  133  git commit -m "added history"
+  134  git add .
+  135  git commit -m "added history"
+  136  git log
+  137  checkout milkshake 
+  138  git checkout milkshake
+  139  git branch
+  140  git checkout milkshake-flavours
+  141  git log
+  142  git checkout master
+  143  nano README.md
+  144  git add .
+  145  git commit -m "random readme changes"
+  146  git checkout history
+  147  git log
+  148  git status
+  149  git checkout master
+  150  cat README.md
+  151  git chekout history
+  152  git checkout history
+  153  cat README.md
+  154  rm README.md
+  155  echo "booya" > README.md
+  156  git add .
+  157  git commit -m "rewrote readme"
+  158  git checkout master
+  159  ls
+  160  git log
+  161  git checkout history
+  162  ls
+  163  cd /c/Users/nicol/Documents/git-basic-exercises
+  164  ls -a
+  165  cd C:/Users/nicol/Documents/git-basic-exercises
+  166  ls -a
+  167  git init
+  168  ls -a
+  169  git status
+  170  touch README.md
+  171  ls -a
+  172  git status
+  173  git log
+  174  git add .
+  175  git status
+  176  git status
+  177  git commit -m "initial commit"
+  178  git log
+  179  q
+  180  quit
+  181  end
+  182  git help
+  183  nano README.md
+  184  cat README.md
+  185  git status
+  186  git add .
+  187  git commit -m "second commit"
+  188  nano README.md
+  189  git add .
+  190  git commit -m "third commit"
+  191  git log
+  192  q
+  193  back
+  194  git checkout f2455c05e2c479b29b1d7c0842ac6d70ce5571cb
+  195  cat README.md
+  196  git checkout master
+  197  cat README.md
+  198  git branch milkshake-flavours
+  199  git checkout milkshake-flavours
+  200  nano milkshakes.md
+  201  git status
+  202  git add .
+  203  git commit -m "added initial flavours"
+  204  git log
+  205  git checkout master
+  206  git log
+  207  git branch history
+  208  git branch
+  209  history > history.txt
+  210  git add .
+  211  git commit -m "added history"
+  212  git log
+  213  git restore
+  214  git restore ff4613e4113a7407316f561842a960843476e7e1 
+  215  git restore history
+  216  git checkout history
+  217  ls
+  218  git checkout master
+  219  git restore history.txt
+  220  ls
+  221  git rm history.txt
+  222  ls
+  223  git commit --amend
+  224  git reset HEAD
+  225  git log
+  226  git commit --amend 
+  227  cd /c/Users/nicol/Documents/git-basic-exercises
+  228  ls -a
+  229  git init
+  230  ls -a
+  231  git status
+  232  touch README.md
+  233  ls
+  234  ls -a
+  235  git status
+  236  git log
+  237  git add .
+  238  git status
+  239  git status
+  240  git commit -m "initial commit"
+  241  git log
+  242  nano README.md
+  243  cat README.md
+  244  git status
+  245  git add .
+  246  git commit -m "second commit"
+  247  nano README.md
+  248  git add .
+  249  git  commit -m "third commit"
+  250  git log
+  251  git branch milkshake-flavours
+  252  bit branch
+  253  git branch
+  254  git checkout milkshake-flavours
+  255  nano milkshakes.md
+  256  git add .
+  257  git commit -m "added initial flavours"
+  258  git log
+  259  git checkout master
+  260  git log
+  261  git branch history
+  262  git checkout history
+  263  git log
+  264  git branch
+  265  history > history.txt
