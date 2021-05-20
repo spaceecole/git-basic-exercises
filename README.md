@@ -1,2 +1,1 @@
-Another terminal opened!
-
+booya
