@@ -1,0 +1,2 @@
+Another terminal opened
+
