@@ -1,2 +1,2 @@
-Another terminal opened
+Another terminal opened!
 
